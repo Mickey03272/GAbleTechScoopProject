@@ -1,0 +1,16 @@
+.ViewAllCert {
+  #HeaderPage {
+    text-align: center;
+    padding: 2rem;
+    color: orange;
+    font-size: 2.5rem;
+  }
+
+  #Backbtn {
+    text-align: center;
+    margin-top: 1rem;
+  }
+}
+.header-styles {
+    font-weight: bold !important;
+  }
